@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularBuffer", "CircularBuffer\CircularBuffer.csproj", "{8DA91FBA-D0E7-4729-8203-DD7998AE999C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularBuffer.Sample", "CircularBuffer.Sample\CircularBuffer.Sample.csproj", "{A21965B7-5962-4C26-AFDE-120C20994246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA91FBA-D0E7-4729-8203-DD7998AE999C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA91FBA-D0E7-4729-8203-DD7998AE999C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA91FBA-D0E7-4729-8203-DD7998AE999C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA91FBA-D0E7-4729-8203-DD7998AE999C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21965B7-5962-4C26-AFDE-120C20994246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21965B7-5962-4C26-AFDE-120C20994246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21965B7-5962-4C26-AFDE-120C20994246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21965B7-5962-4C26-AFDE-120C20994246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
